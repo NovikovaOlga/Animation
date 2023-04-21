@@ -17,8 +17,8 @@
     - infinite rotation animation
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Animation/blob/main/screens/screen1.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Animation/blob/main/screens/Demo.gif">
+  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Animation/Demo.gif">
+  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Animation/screen1.png">
 <p>
 
 ## Technologies
